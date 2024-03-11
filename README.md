@@ -64,7 +64,8 @@ In this tutorial, we will be working with DNS. <br />
 2B.  Observe the local dns cache (ipconfig /displaydns).  
 </p>
 <p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 50 19 PM" src="https://github.com/richardwines32/DNS/assets/162821778/00e51c88-a6a3-4deb-8369-93b5896adaf2">
+<img width="1512" alt="Screenshot 2024-03-11 at 6 52 37 PM" src="https://github.com/richardwines32/DNS/assets/162821778/f6504710-f6cb-4cd1-b759-9e53c825b706">
+
 
 </p>
 
