@@ -99,25 +99,9 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record.  
+Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record.  Finish.  
 </p>
 <p>
 <img width="1512" alt="Screenshot 2024-03-11 at 7 08 52 PM" src="https://github.com/richardwines32/DNS/assets/162821778/7c64022c-f499-4d6d-aa15-2cd4b9516750">
 
-</p>
 
-<br />
-<p>
-On Client-1, nslookup “search”, observe the results of the CNAME record.  Finish. 
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<br />
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
