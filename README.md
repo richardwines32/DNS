@@ -89,16 +89,17 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-3.  CNAME Record Exercise.  Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”.  Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record.  On Client-1, nslookup “search”, observe the results of the CNAME record.  Finish.
+3.  CNAME Record Exercise.  Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”.  
  
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 7 06 47 PM" src="https://github.com/richardwines32/DNS/assets/162821778/a26fa383-10f6-4c7d-99e9-e4f43108f0e9">
+
 </p>
 
 <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record.  On Client-1, nslookup “search”, observe the results of the CNAME record.  Finish. 
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
