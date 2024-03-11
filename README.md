@@ -61,15 +61,16 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-2B.  Observe the local dns cache (ipconfig /displaydns).  Flush the DNS cache (ipconfig /flushdns).  Observe that the cache is empty.  Attempt to ping “mainframe” again. Observe the address of the new record is showing up.
+2B.  Observe the local dns cache (ipconfig /displaydns).  
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 6 50 19 PM" src="https://github.com/richardwines32/DNS/assets/162821778/00e51c88-a6a3-4deb-8369-93b5896adaf2">
+
 </p>
 
 <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2C.  Flush the DNS cache (ipconfig /flushdns).  Observe that the cache is empty.  Attempt to ping “mainframe” again. Observe the address of the new record is showing up.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
