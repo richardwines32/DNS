@@ -42,15 +42,17 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2.  Local DNS Cache Exercise.  Go back to DC-1 and change mainframe’s record address to 8.8.8.8.  
+
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 6 44 15 PM" src="https://github.com/richardwines32/DNS/assets/162821778/12d51939-2004-4714-bc18-7632b227d1ad">
+
 </p>
 
 <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2A.  Go back to Client-1 and ping “mainframe” again.  Observe that it still pings the old address.  Observe the local dns cache (ipconfig /displaydns).  Flush the DNS cache (ipconfig /flushdns).  Observe that the cache is empty.  Attempt to ping “mainframe” again. Observe the address of the new record is showing up.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
