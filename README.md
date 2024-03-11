@@ -24,15 +24,17 @@ In this tutorial, we will be working with DNS. <br />
 </p>
 <br />
 <p>
- 1A.  Nslookup “mainframe” notice that it fails (no DNS record).  Create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address. Go back to Client-1 and try to ping it. Observe that it works. 
-</p>
+ 1A.  Create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address. 
+</p> 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1512" alt="Screenshot 2024-03-11 at 6 32 54 PM" src="https://github.com/richardwines32/DNS/assets/162821778/ce944376-2469-4a6f-9465-6b47107ca165">
+ 
 </p>
 
 <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1B.  Go back to Client-1 and try to ping it. Observe that it works. 
+</p>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
