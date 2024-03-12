@@ -6,6 +6,7 @@ In this tutorial, we will be working with DNS. <br />
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
+- DNS Manager
 
 
 <h2>Operating Systems Used </h2>
